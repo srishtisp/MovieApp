@@ -1,4 +1,4 @@
-<h1> Movie Finder App
+<h1> Movie Finder App </h1>
 
 Overview :
 
@@ -6,7 +6,7 @@ This is my submission for the QuadB Internship.
 
 The Movie Finder App is a React Native application that allows users to browse and search for movies. Users can view movie details, search for their favorite movies, and explore genres and ratings.
 
-<h2> Features : <h2>
+<h2> Features : </h2>
   
 Splash Screen: Displays a welcoming splash screen with a local image.
 
